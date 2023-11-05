@@ -1,0 +1,4 @@
+#Sun Nov 05 14:57:38 ICT 2023
+base.0=C\:\\Users\\Nitro 5\\Code\\Mobile programming\\Dessert Clicker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
